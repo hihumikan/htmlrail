@@ -44,11 +44,12 @@
 @media screen and (max-width: 320px) {
   .card__title {
     color: #282828;
-    font-size: 12px;
+    font-size: 6px;
   }
   .card__description {
     color: #282828;
     font-size: 0px;
+    display: none;
     padding-top: 0px;
   }
   img {
@@ -87,7 +88,7 @@
 @media only screen and (min-width: 321px) and (max-width: 1199px) {
   .card__title {
     color: #282828;
-    font-size: 14px;
+    font-size: 6px;
   }
   .card__description {
     color: #282828;
